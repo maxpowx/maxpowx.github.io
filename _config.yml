@@ -38,7 +38,7 @@ author:
   name      : Max Powis
   url       :
   avatar    : # path or url of avatar image
-  bio       : I am a software engineer and analyst.
+  bio       : I am a data engineer and application architect.
   email     : max@maxpowx.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : maxpowis
@@ -155,6 +155,7 @@ permalink   : date
 exclude:
   - CHANGELOG.md
   - CHECKLIST.md
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
