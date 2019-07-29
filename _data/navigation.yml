@@ -1,0 +1,17 @@
+header:
+  - titles:
+      en:       About
+      fr:       A propos
+    url:        /about.html
+  - titles:
+      en:       Services
+      fr:       Services
+    url:        /services.html
+  - titles:
+      en:       Blog
+      fr:       Blog
+    url:        /blog.html
+  - titles:
+      en:       Contact
+      fr:       Contact
+    url:        /contact.html
