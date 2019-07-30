@@ -33,20 +33,7 @@ timezone: Europe/Brussels
 
 ## => Author and Social
 ##############################
-author:
-  type      : # "person" (default), "organization"
-  name      : Max Powis
-  url       :
-  avatar    : # path or url of avatar image
-  bio       : I am a data engineer and application architect.
-  email     : max@maxpowx.com
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : maxpowis
-  github    : maxpowis
-  linkedin  : maxpowis
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
+author: maxpowx
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
