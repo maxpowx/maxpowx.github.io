@@ -11,7 +11,6 @@ maxPowX: # replace this with your info
   siterole  : "owner"
   url       : https://www.maxpowx.com
   email     : max@maxpowx.com
-  avatar    : https://s.gravatar.com/avatar/6676a32ada04a2238bf5439ab1eac0c5?s=80 # path or url of avatar image (square)
   github    : maxpowx # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 Max Powis: # replace this with your info
   name      : Max Powis
