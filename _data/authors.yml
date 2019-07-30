@@ -5,17 +5,17 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-maxpowx: # replace this with your info
-  type      : organization # "person" (default), "organization"
+maxPowX: # replace this with your info
   name      : maxPowX
+  type      : organization # "person" (default), "organization"
   siterole  : "owner"
   url       : https://www.maxpowx.com
   email     : max@maxpowx.com
   avatar    : https://s.gravatar.com/avatar/6676a32ada04a2238bf5439ab1eac0c5?s=80 # path or url of avatar image (square)
   github    : maxpowx # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-maxpowis: # replace this with your info
-  type      : person # "person" (default), "organization"
+Max Powis: # replace this with your info
   name      : Max Powis
+  type      : person # "person" (default), "organization"
   siterole  : "webmaster, developer, copywriter, designer"
   url       : http://max.pow.is/
   email     : max@maxpowx.com
