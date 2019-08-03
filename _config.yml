@@ -33,13 +33,7 @@ timezone: Europe/Brussels
 
 ## => Author and Social
 ##############################
-author: 
-  name      : maxPowX
-  type      : organization # "person" (default), "organization"
-  siterole  : "owner"
-  url       : https://www.maxpowx.com
-  email     : max@maxpowx.com
-  github    : maxpowx # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+author: maxpowx
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
