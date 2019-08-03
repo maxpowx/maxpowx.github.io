@@ -2,5 +2,6 @@
 layout: article
 title: Launch of maxPowX
 author: maxPowX
+mathjax: true
 ---
-January 7th 2019
+text(max)^x launched on January 7th 2019
