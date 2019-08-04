@@ -30,10 +30,4 @@ data:
           excerpt: Agile data warehousing at your fingertips
         - title: Data governance
           excerpt: Know where your gold is?
-    - title: Contact
-      theme: dark
-      actions:
-        - text: '<a href="mailto:max@maxpowx.com"><i class="fas fa-envelope"></i> Drop a mail!</a>'
-          type: outline-theme-dark
-      background_color: "#1F324B"
 ---
