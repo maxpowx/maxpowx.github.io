@@ -8,10 +8,6 @@ header:
       fr:       Services
     url:        /services.html
   - titles:
-      en:       Blog
-      fr:       Blog
-    url:        /blog.html
-  - titles:
       en:       About
       fr:       A propos
     url:        /about.html
