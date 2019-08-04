@@ -12,10 +12,11 @@ header:
 
 article_header:
   type: overlay
+  height: 100vh
   theme: dark
   background_color: '#1F324B'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(31, 50, 75 , .4), rgba(84, 30, 71, .4))'
+    #gradient: 'linear-gradient(135deg, rgba(31, 50, 75 , .4), rgba(84, 30, 71, .4))'
     src: /assets/images/photo-1523961131990-5ea7c61b2107.jpg
 
 data:
@@ -33,7 +34,7 @@ data:
       theme: dark
       excerpt: Want to know more?
       actions:
-        - text: '<i class="fas fa-envelope"></i> Drop an e-mail!'
+        - text: '<i class="fas fa-envelope"></i> Drop a mail!'
           type: outline-theme-dark
           url: 'mailto:max@maxpowx.com'
       background_color: "#1F324B"
