@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en: Data governance
+  en: Data Governance
   fr: Gouvernance de données
 permalink: /services/data-governance
 key: services-data-governance
