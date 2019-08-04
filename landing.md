@@ -26,8 +26,17 @@ data:
       children: 
         - title: Data design
           excerpt: Canonical, dimensional, data vault modeling done right
+          actions:
+            - text: Learn More
+              url: /services/data-design
         - title: Data warehouse automation
           excerpt: Agile data warehousing at your fingertips
+          actions:
+            - text: Learn More
+              url: /services/data-warehouse-automation
         - title: Data governance
           excerpt: Know where your gold is?
+          actions:
+            - text: Learn More
+              url: /services/data-governance
 ---
