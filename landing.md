@@ -4,7 +4,7 @@ titles:
   en: maxPowX
 mode: immersive
 excerpt: >
-  Empowerment on the grounds of data.
+  Empowerment on data grounds.
 permalink: /index.html
 
 header:
@@ -24,11 +24,11 @@ data:
       except: Data manaegement expertise in a wide range of applications
       children: 
         - title: Data design
-          excerpt: Canonical, dimensional, data vault modeling
+          excerpt: Canonical, dimensional, data vault modeling done right
         - title: Data warehouse automation
           excerpt: Agile data warehousing at your fingertips
         - title: Data governance
-          excerpt: Known your data/gold is ?
+          excerpt: Know where your gold is?
     - title: Contact
       theme: dark
       excerpt: Want to know more?
