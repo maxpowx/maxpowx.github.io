@@ -177,6 +177,10 @@ defaults:
       pageview: true
 
 
+maps:
+  google:
+    api_key: AIzaSyBVg9IyJ49IRzodou8z3Fv4-JC9nW0Yixg
+
 ## => Plugins
 ##############################
 plugins:
@@ -185,3 +189,4 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-remote-theme
+  - jekyll-maps
