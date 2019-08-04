@@ -8,9 +8,9 @@ aside:
   toc: true
 ---
 
-# Legal information
+# Legal
 maxPowX S.C.S./G.C.V.  
-RPM BE 0716.975.005
+RPM: BE 0716.975.005
 
 # Offices
 Avenue Walckiers 20  
