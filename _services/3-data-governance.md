@@ -5,6 +5,6 @@ titles:
   fr: Gouvernance de données
 permalink: /services/data-governance
 key: services-data-governance
-cover: /assets/svg/available-svgrepo-com.svg
+cover: /assets/svg/value-svgrepo-com.svg
 ---
 _Site content under development_
