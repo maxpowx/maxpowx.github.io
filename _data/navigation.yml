@@ -1,8 +1,8 @@
 header:
   - titles:
-      en:       About
-      fr:       A propos
-    url:        /about.html
+      en:       Home
+      fr:       Accueil
+    url:        /index.html
   - titles:
       en:       Services
       fr:       Services
@@ -12,6 +12,6 @@ header:
       fr:       Blog
     url:        /blog.html
   - titles:
-      en:       Contact
-      fr:       Contact
-    url:        /contact.html
+      en:       About
+      fr:       A propos
+    url:        /about.html

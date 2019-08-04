@@ -1,9 +1,17 @@
 ---
 layout: article
 titles:
-  en: About
+  en: 
   fr: A propos
-key: page-about
+aside:
+  toc: true
 ---
 
-Empower your data.
+# Legal information
+maxPowX S.C.S./G.C.V.
+RPM BE 0716.975.005
+
+# Offices
+Avenue Walckiers 20
+1160 Auderghem
+BEGIUM
