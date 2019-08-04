@@ -32,10 +32,8 @@ data:
           excerpt: Know where your gold is?
     - title: Contact
       theme: dark
-      excerpt: Want to know more?
       actions:
-        - text: '<i class="fas fa-envelope"></i> Drop a mail!'
+        - text: '<a href="mailto:max@maxpowx.com"><i class="fas fa-envelope"></i> Drop a mail!</a>'
           type: outline-theme-dark
-          url: 'mailto:max@maxpowx.com'
       background_color: "#1F324B"
 ---
