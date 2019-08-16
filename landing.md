@@ -17,12 +17,12 @@ article_header:
   background_color: '#1F324B'
   background_image:
     #gradient: 'linear-gradient(135deg, rgba(31, 50, 75 , .4), rgba(84, 30, 71, .4))'
-    src: /assets/images/photo-1523961131990-5ea7c61b2107.jpg
+    src: /assets/images/fabio-oyXis2kALVg-unsplash.jpg
 
 data:
   sections:
     - title: Services
-      except: Data manaegement expertise in a wide range of applications
+      except: Data management expertise in a wide range of applications
       children: 
         - title: Data design
           excerpt: Canonical, dimensional, data vault modeling done right
