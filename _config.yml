@@ -149,20 +149,10 @@ exclude:
   - CHANGELOG.md
   - CHECKLIST.md
   - CNAME
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
-  - README-*.md
   - README.md
-  - gulpfile.js
-  - jekyll-text-theme.gemspec
-  - package-lock.json
-  - package.json
-  - /docs
-  - /node_modules
-  - /screenshots
-  - /test
-  - /vendor
+  - SOURCES.md
+  - /.*
 
 collections:
   services:
@@ -174,10 +164,12 @@ defaults:
       type: posts
     values:
       layout: article
+      sharing: true
       license: true
       aside:
         toc: true
       show_edit_on_github: true
+      show_subscribe: true
       pageview: true
 
 ## => Plugins

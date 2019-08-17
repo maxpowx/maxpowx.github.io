@@ -10,3 +10,39 @@ articles:
   type: grid
   size: sm
 ---
+
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/svg/architecture-blueprint-svgrepo-com.svg"/>
+    <div class="overlay">
+      <p>App Architecture</p>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/svg/modeling-svgrepo-com.svg"/>
+    <div class="overlay">
+      <p>Data Design</p>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/svg/data-processing-svgrepo-com.svg"/>
+    <div class="overlay">
+      <p>Data Intergation</p>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/svg/value-svgrepo-com.svg"/>
+    <div class="overlay">
+      <p>Data Governance</p>
+    </div>
+  </div>
+</div>
