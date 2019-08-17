@@ -15,7 +15,7 @@ articles:
 <div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image image--md" src="/assets/svg/architecture-blueprint-svgrepo-com.svg"/>
+    <img class="image image--sm" src="/assets/svg/architecture-blueprint-svgrepo-com.svg"/>
     <div class="overlay">
       <p>App Architecture</p>
     </div>
@@ -26,7 +26,7 @@ articles:
 <div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image image--md" src="/assets/svg/modeling-svgrepo-com.svg"/>
+    <img class="image image--sm" src="/assets/svg/modeling-svgrepo-com.svg"/>
     <div class="overlay">
       <p>Data Design</p>
     </div>
@@ -37,7 +37,7 @@ articles:
 <div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image image--md" src="/assets/svg/data-processing-svgrepo-com.svg"/>
+    <img class="image image--sm" src="/assets/svg/data-processing-svgrepo-com.svg"/>
     <div class="overlay">
       <p>Data Intergation</p>
     </div>
@@ -48,7 +48,7 @@ articles:
 <div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image image--md" src="/assets/svg/value-svgrepo-com.svg"/>
+    <img class="image image--sm" src="/assets/svg/value-svgrepo-com.svg"/>
     <div class="overlay">
       <p>Data Governance</p>
     </div>
