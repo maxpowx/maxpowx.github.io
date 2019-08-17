@@ -8,5 +8,5 @@ key: services-grid
 articles:
   data_source: site.services
   type: grid
-  size: xs
+  size: sm
 ---
