@@ -33,7 +33,7 @@ data:
           excerpt: Agile data warehousing at your fingertips
           actions:
             - text: Learn More
-              url: /services/data-warehouse-automation
+              url: /services/data-integration
         - title: Data governance
           excerpt: Know where your gold is?
           actions:
