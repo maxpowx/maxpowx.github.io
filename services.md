@@ -11,38 +11,47 @@ articles:
   size: sm
 ---
 
+<div class="grid">
+<div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/svg/architecture-blueprint-svgrepo-com.svg"/>
+    <img class="image image--md" src="/assets/svg/architecture-blueprint-svgrepo-com.svg"/>
     <div class="overlay">
       <p>App Architecture</p>
     </div>
   </div>
 </div>
+</div>
 
+<div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/svg/modeling-svgrepo-com.svg"/>
+    <img class="image image--md" src="/assets/svg/modeling-svgrepo-com.svg"/>
     <div class="overlay">
       <p>Data Design</p>
     </div>
   </div>
 </div>
+</div>
 
+<div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/svg/data-processing-svgrepo-com.svg"/>
+    <img class="image image--md" src="/assets/svg/data-processing-svgrepo-com.svg"/>
     <div class="overlay">
       <p>Data Intergation</p>
     </div>
   </div>
 </div>
+</div>
 
+<div class="cell cell--4">
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/svg/value-svgrepo-com.svg"/>
+    <img class="image image--md" src="/assets/svg/value-svgrepo-com.svg"/>
     <div class="overlay">
       <p>Data Governance</p>
     </div>
   </div>
+</div>
 </div>
