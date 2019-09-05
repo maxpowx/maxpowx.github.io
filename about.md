@@ -15,4 +15,4 @@ RPM: BE 0716.975.005
 # Offices
 Avenue Walckiers 20  
 1160 Auderghem  
-BEGIUM
+BELGIUM
