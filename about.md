@@ -9,7 +9,7 @@ aside:
 ---
 
 # Legal
-maxPowX S.C./C.V.  
+maxPowX SComm  
 RPM: BE 0716.975.005
 
 # Offices
