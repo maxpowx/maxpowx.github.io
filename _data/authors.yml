@@ -19,10 +19,9 @@ max_powis: # replace this with your info
   url       : http://max.pow.is/
   email     : max@maxpowx.com
   avatar    : https://s.gravatar.com/avatar/6676a32ada04a2238bf5439ab1eac0c5?s=80 # path or url of avatar image (square)
-  bio       : I am passionate about data and technology. My deepest satisfaction lies in delivering highly efficient and modular solutions
-relying on strong data models for reuse across various data disciplines. Throughout my career, I have endorsed various positions involving data governance, data architecture, data modeling
-(data vaulting, dimensional modeling, unified star schemas, …), data integration, system integration, reference/master data
-management and business analytics (reporting & dashboarding).
+  bio       : |
+    I am passionate about data and technology. My deepest satisfaction lies in delivering highly efficient and modular solutions relying on strong data models for reuse across various data disciplines. 
+    Throughout my career, I have endorsed various positions involving data governance, data architecture, data modeling (data vaulting, dimensional modeling, unified star schemas, …), data integration, system integration, reference/master data management and business analytics (reporting & dashboarding).
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : maxpowis # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
